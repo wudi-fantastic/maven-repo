@@ -4,8 +4,8 @@
          http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.wudi</groupId>
-    <artifactId>mcGpio</artifactId>
+    <artifactId>libmcGpio</artifactId>
     <version>1.0.0</version>
     <packaging>aar</packaging>
-    <name>mcGpio</name>
+    <name>libmcGpio</name>
 </project>
